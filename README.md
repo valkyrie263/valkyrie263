@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- ✉️ contact
+  1. Mail : [kazu@kazugmx.net](mailto://yankawadev@gmail.com)
+     
 ### Learning / interested
 [![Learning / interested](https://skillicons.dev/icons?i=openstack,go,ts,nextjs,react,angular,htmx,tailwind&perline=4)](https://skillicons.dev)
 
