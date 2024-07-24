@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Learning 
+[![Learning](https://skillicons.dev/icons?i=openstack,go,react,angular,tailwind&perline=3)](https://skillicons.dev)
+
+### Skill
+[![Skill](https://skillicons.dev/icons?i=docker,vscode,github,django,pytorch,selenuim&perline=3)](https://skillicons.dev)
