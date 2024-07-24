@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 ### Skill
 [![Skill](https://skillicons.dev/icons?i=bash,docker,vscode,github,md,regex,py,fastapi,django,tensorflow,pytorch,selenium&perline=4)](https://skillicons.dev)
+
+![Valkyrie-takuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valkyrie-takuya&show_icons=true&theme=cobalt)
