@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Learning](https://skillicons.dev/icons?i=openstack,go,ts,nextjs,react,angular,htmx,tailwind&perline=4)](https://skillicons.dev)
 
 ### Skill
-[![Skill](https://skillicons.dev/icons?i=bash,docker,vscode,github,md,regex,py,fastapi,django,tensorflow,pytorch,selenuim,sass&perline=4)](https://skillicons.dev)
+[![Skill](https://skillicons.dev/icons?i=bash,docker,vscode,github,md,regex,py,fastapi,django,tensorflow,pytorch,selenium&perline=4)](https://skillicons.dev)
