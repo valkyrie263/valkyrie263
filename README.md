@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-- ✉️ contact
-  1. Mail : [yankawadev@gmail.com](mailto://yankawadev@gmail.com)
-     
 ### Learning / interested
 [![Learning / interested](https://skillicons.dev/icons?i=openstack,go,ts,nextjs,react,angular,htmx,tailwind&perline=4)](https://skillicons.dev)
 
